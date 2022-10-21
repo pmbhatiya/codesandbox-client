@@ -112,7 +112,7 @@
         "@typescript-eslint/no-useless-constructor": "warn",
         "import/extensions": 0,
         "import/no-unresolved": 0,
-        "no-shadow": "off",
+        "no-shadow": "on",
         "@typescript-eslint/no-shadow": ["error"],
         "spaced-comment": "warn"
       }
